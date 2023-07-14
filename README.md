@@ -1,5 +1,5 @@
 ```
-Built with react v16.1
+docker compose build
 ```
 
 ```

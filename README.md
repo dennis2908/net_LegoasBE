@@ -1,4 +1,8 @@
 ```
+Built with C#, .NET, entity framework
+```
+
+```
 docker compose build
 ```
 
